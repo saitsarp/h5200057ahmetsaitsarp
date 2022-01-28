@@ -1,0 +1,50 @@
+[ 
+	{
+ 		"YerBilgisi": "Kapalı Çarşı",
+ 		"KimYapti": "Fatih Sultan Mehmet",
+ 		"ResimURL": "https://raw.githubusercontent.com/saitsarp/h5200057ahmetsaitsarp/main/561580faf018fb6340d63511.jpg",
+		"YapilisTarihi": "1460"
+        
+		
+ 	},
+
+ 	{
+ 		"YerBilgisi": "Yerebatan Sarnıcı",
+ 		"KimYapti": "İmparator Justinianus",
+ 		"ResimURL": "https://raw.githubusercontent.com/saitsarp/h5200057ahmetsaitsarp/main/yerebatan-sarnici-acilis-kapanis-saatleri-h1579855815-0376b4.jpg",
+		"YapilisTarihi": "532"
+         		
+ 	},
+
+ 	{
+ 		"YerBilgisi": "Dolmabahçe Sarayı",
+ 		"KimYapti": "Sultan I. Abdülmecit",
+ 		"ResimURL": "https://raw.githubusercontent.com/saitsarp/h5200057ahmetsaitsarp/main/dolmabahce-sarayi-depophotos_15723466_16_9_1623853581-880x495.jpg",
+		"YapilisTarihi": "1855"
+        
+ 	},
+
+ 	{
+ 		"YerBilgisi": "Beylerbeyi Sarayı",
+ 		"KimYapti": "Sultan Abdülaziz",
+		"ResimURL": "https://raw.githubusercontent.com/saitsarp/h5200057ahmetsaitsarp/main/beylerbeyi-palace.jpg",
+		"YapilisTarihi": "1876"
+        		
+ 	},
+     
+     {
+        "YerBilgisi": "Çırağan Sarayı",
+        "KimYapti": "Sultan Abdülaziz",
+		"ResimURL": "https://raw.githubusercontent.com/saitsarp/h5200057ahmetsaitsarp/main/60c859e02af1070b80368d21.jpg",
+		"YapilisTarihi": "1871"
+              
+    },
+
+    {
+        "YerBilgisi": "Ayasofya Camii",
+        "KimYapti": "İmparator Justinianus",
+		"ResimURL": "https://raw.githubusercontent.com/saitsarp/h5200057ahmetsaitsarp/main/ayasofya.jpg",
+		"YapilisTarihi": "537"
+               
+    }
+ ]
